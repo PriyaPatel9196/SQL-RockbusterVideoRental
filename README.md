@@ -5,7 +5,7 @@ Data-driven presentation to answer the business questions was created for the Ma
 ### Introduction
 
 Rockbuster  Stealth  LLC  is  a  movie  rental  company  that  used  to  have  stores  around  the   world.   Facing  stiff  competition  from  streaming  services  such  as  Netflix  and  Amazon  Prime,   
-the  Rockbuster  Stealth  management  team  is  planning  to  use  its  existing  movie  licenses  to   launch  an  online  video  rental  service  in  order  to  stay  competitive.
+the  Rockbuster  Stealth  management  team  is  planning  to  use  its  existing  movie  licenses  to   launch  an  online  video  rental  service  in  order  to  stay  competitive. 
 
 ### Key Questions & Objectives
 
@@ -24,6 +24,7 @@ Rockbuster relational database management system and Postgre SQL was used for th
 
 ### Visulizations
 
+Our movie rental service company currently offer a selection of 1000 films exclusively in the English language, across 17 different categories in 109 country. 
 Take a look at the <a href="https://public.tableau.com/app/profile/priya.patel2009/viz/Rockbuster_17056225479280/ROckbuster?publish=yes">
                     <button> Tableau Workbook</button>
                     </a> on Tableau Public.
