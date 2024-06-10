@@ -2,12 +2,12 @@
 
 Data-driven presentation to answer the business questions was created for the Management Board, Data dictionary and SQLs used to answer the key questions were shared to the technical team.
 
-# Introduction
+ Introduction
 
 Rockbuster  Stealth  LLC  is  a  movie  rental  company  that  used  to  have  stores  around  the   world.   Facing  stiff  competition  from  streaming  services  such  as  Netflix  and  Amazon  Prime,   
 the  Rockbuster  Stealth  management  team  is  planning  to  use  its  existing  movie  licenses  to   launch  an  online  video  rental  service  in  order  to  stay  competitive.
 
-# Key Questions & Objectives
+## Key Questions & Objectives
 
 The  Rockbuster  Stealth  Management  Board  has  asked  a  series  of  business  questions  and   they  expect  data-driven  answers  that  they  can  use  for  their  2020   company  strategy.  Here  are   
 the  main  questions  they’d  like  to  answer: 
@@ -24,4 +24,4 @@ Rockbuster relational database management system and Postgre SQL was used for th
 
 # Visulizations
 
-Take a look at the link to visulization on Tableau Public.
+Take a look at the https://public.tableau.com/app/profile/priya.patel2009/viz/Rockbuster_17056225479280/ROckbuster?publish=yes on Tableau Public.
