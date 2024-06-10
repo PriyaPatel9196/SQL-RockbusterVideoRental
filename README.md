@@ -24,4 +24,4 @@ Rockbuster relational database management system and Postgre SQL was used for th
 
 # Visulizations
 
-Take a look at the https://public.tableau.com/app/profile/priya.patel2009 on Tableau Public.
+Take a look at the link to visulization on Tableau Public.
